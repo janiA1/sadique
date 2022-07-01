@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 Welcome to GitHub Basha
 
 
 
 this is last line added in test branch
 again added line in test branch
+=======
+>>>>>>> parent of 0a24932 (Update basha.txt)
